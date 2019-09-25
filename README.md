@@ -2,6 +2,8 @@
 
 Localist is a platform for users to create custom tours of their home town/city. Everyone can be a guide, and everyone can have their hand in the tourism industry.
 
+![alt text](https://github.com/jacob13smith/localist/blob/develop/localist.png)
+
 ## Installation
 
 Node.js must be installed on the device, as well the the node package manager; npm.
